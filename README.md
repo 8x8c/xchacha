@@ -22,7 +22,7 @@ A key is often better than a password. So should an encryption app use a passwor
 
 ./chacha20_cli --over api.html --D
 
-That is it! This app has simple input commands but it can do a lot! It is an all in one encryption app solution! 
+That is it! This app has simple input commands but it can do a lot! It is an all in one encryption app solution! Key maker, password, no pasword, always uses a key, make another file or overwrite in place. That is a great set of features for a single encryption app! 
 
 # Design choices 
 
